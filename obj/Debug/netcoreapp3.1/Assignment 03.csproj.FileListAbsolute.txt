@@ -1,0 +1,63 @@
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.exe
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.deps.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.runtimeconfig.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.runtimeconfig.dev.json
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.pdb
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.Views.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Assignment 03.Views.pdb
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.AssemblyInfoInputs.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.AssemblyInfo.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.RazorAssemblyInfo.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.RazorAssemblyInfo.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.TagHelpers.input.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.TagHelpers.output.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.RazorCoreGenerate.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Index\SignUp.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.RazorTargetAssemblyInfo.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.RazorTargetAssemblyInfo.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.Views.pdb
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 03.StaticWebAssets.Manifest.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 03.StaticWebAssets.xml
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.pdb
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.genruntimeconfig.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.csproj.CopyComplete
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.csproj.CoreCompileInputs.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\Index.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\About.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\Profile.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\CreatePost.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Assignment 03.csprojAssemblyReference.cache
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\UpdatePost.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+C:\Users\Usman Farooq\source\repos\Assignment 03\Assignment 03\obj\Debug\netcoreapp3.1\Razor\Views\Homepage\ViewPost.cshtml.g.cs

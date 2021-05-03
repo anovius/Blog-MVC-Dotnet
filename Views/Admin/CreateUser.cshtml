@@ -1,0 +1,23 @@
+﻿@using Assignment_03.Models
+@model User
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="col-md-3 login">
+    <h2>Create New User</h2>
+    <form method="post" action="/Admin/CreateUser" enctype="multipart/form-data">
+        <input asp-for="Name" class="form-control" placeholder="Full Name" />
+        <span asp-validation-for="Name"></span>
+        <input asp-for="Username" class="form-control" placeholder="Username" />
+        <span asp-validation-for="Username"></span>
+        <input asp-for="Email" type="email" class="form-control" placeholder="Email Address" />
+        <span asp-validation-for="Email"></span>
+        <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+        <span asp-validation-for="Password"></span>
+        <label for="ProfileImage">Profile Photo</label>
+        <input asp-for="ProfileImage" />
+        <span asp-validation-for="ProfileImage"></span>
+        <input type="submit" class="form-control btn btn-primary" value="Create User" />
+        <hr />
+    </form>
+</div>

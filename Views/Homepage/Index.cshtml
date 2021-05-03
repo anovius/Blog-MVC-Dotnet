@@ -1,0 +1,26 @@
+﻿@model List<Assignment_03.Models.Post>
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Context.Request.Cookies.TryGetValue("Username", out string User);
+}
+<div class="MyCol">
+    <div>
+        <a class="btn btn-success" asp-controller="Homepage" asp-action="CreatePost">Create Post</a> <br /> <br />
+
+        @foreach (Assignment_03.Models.Post post in Model)
+        {
+            <div class="post">
+                <div class="post-photo-area">
+                    <img src="~/ProfileImages/@post.ProfileImageName" class="post-photo"/>
+                </div>
+                <div class="post-data">
+                    <p><span class="post-user">@post.PostedBy</span> @post.PostingDate</p>
+                    <hr />
+                    <a asp-action="ViewPost" asp-route-id="@post.ID"><h4>@post.Title</h4></a>
+                    <p>@post.Content</p>
+                </div>
+            </div>
+            <br />
+        }
+    </div>
+</div>

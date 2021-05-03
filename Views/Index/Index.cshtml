@@ -1,0 +1,25 @@
+﻿@using Assignment_03.Models
+@model LoginUser
+<html>
+<head>
+    <title>Assignment 03</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/css/site.css?" + DateTime.Now.ToString("ddMMHHmmss") rel="stylesheet" /> <!--To update css file wehen ever it changes to stop browser cashe -->
+    </head>
+    <body>
+       <center>
+           <div class="col-md-3 login">
+               <h2>User Login</h2>
+               <form action="/Index/Index" method="post">
+                   <input asp-for="Username" class="form-control" placeholder="Username" />
+                   <span asp-validation-for="Username"></span>
+                   <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+                   <span asp-validation-for="Password"></span>
+                   <input type="submit" class="form-control btn btn-primary" value="Login" />
+                   <hr />
+               </form>
+               <a class="signup btn btn-success" asp-action="SignUp">SignUp</a>
+           </div>
+       </center>
+    </body>
+    </html>

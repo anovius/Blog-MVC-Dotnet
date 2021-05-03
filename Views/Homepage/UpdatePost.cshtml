@@ -1,0 +1,16 @@
+﻿@using Assignment_03.Models
+@model Post
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-md-3">
+    <h2>Update Post</h2>
+    <form action="/Homepage/UpdatePost" method="post">
+        <input asp-for="Title" class="form-control" placeholder="Title" value="@Model.Title" />
+        <span asp-validation-for="Title"></span>
+        <textarea asp-for="Content" class="form-control" placeholder="Content" rows="10">@Model.Content</textarea>
+        <span asp-validation-for="Content"></span>
+        <input type="submit" class="form-control btn btn-success" value="Update" />
+        <hr />
+    </form>
+</div>

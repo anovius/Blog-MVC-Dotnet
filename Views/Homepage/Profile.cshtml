@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using Assignment_03.Models
+@model User
+<div class="col-md-3 login" style="margin-top:0px">
+    <h4><img src="~/ProfileImages/@Model.ProfileImageName" height="50" width="50" /> Update User</h4>
+    <form method="post" action="/Homepage/Profile" enctype="multipart/form-data">
+        <input type="hidden" name="id" id="id" value="@Model.ID" />
+        <input id="Name" name="Name" class="form-control" placeholder="Full Name" value="@Model.Name" required />
+        <input id="Username" name="Username" class="form-control" placeholder="Username" value="@Model.Username" readonly />
+        <input id="Email" name="Email" type="email" class="form-control" placeholder="Email Address" value="@Model.Email" readonly />
+        <input id="Password" name="Password" type="password" class="form-control" placeholder="Password" value="@Model.Password" required />
+        <label for="ProfileImage">Profile Photo</label>
+        <input id="NewPhoto" name="NewPhoto" type="file" />
+        <input type="submit" class="form-control btn btn-primary" value="Update User" />
+        <hr />
+    </form>
+</div>
+<p>@Html.ValidationMessage("Error")</p>

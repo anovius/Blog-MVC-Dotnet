@@ -1,0 +1,142 @@
+﻿body {
+    background-color:lightgray;
+}
+.login{
+    margin-top:100px;
+    overflow:hidden;
+}
+.login img{
+    border-radius:50%;
+    margin-left:20px;
+    margin-right:20px;
+}
+.field-validation-error{
+    color:red;
+    font-size:10px;
+}
+.col-md-3 {
+    background-color: white;
+    padding: 30px;
+    text-align:left;
+}
+.col-md-3 h2{
+    text-align:center;
+}
+input{
+    margin-top:20px;
+    border-radius:0px !important;
+    width: 280px !important;
+}
+input[type='file']{
+    margin-top:0px;
+    font-size:12px;
+}
+.signup {
+    width: 280px;
+    color: white !important;
+    border-radius: 0px !important;
+}
+.col-md-3 label{
+    margin-top:10px;
+}
+.navbar {
+    padding-left: 25px;
+    width: 100%;
+    padding-right: 25px;
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+    box-shadow: 0px 0px 10px 3px rgba(56, 56, 56, 0.3);
+}
+
+    .navbar button {
+        background-color: transparent;
+        border: none;
+    }
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+h3 {
+    color: rgb(40, 40, 40);
+    font-family: 'Raleway', sans-serif;
+}
+
+nav a {
+    font-family: 'MuseoModerno', cursive;
+    font-size: 14px;
+    margin-right: 20px;
+}
+.MyCol{
+    width:800px;
+    display:flex;
+    justify-content:left;
+}
+textarea{
+    margin-top:10px;
+    height:400px;
+}
+.post{
+    width: 800px;
+    background-color: white;
+    color: black;
+    height: 200px;
+    overflow:hidden;
+    text-align:left;
+}
+.post-user{
+    color:blue;
+}
+.post-photo-area{
+    width : 200px;
+    float:left;
+}
+.post-photo{
+    height:200px;
+    width:200px;
+    padding:40px;
+    border-radius:50%;
+}
+.post-data{
+    width:600px;
+    float: right;
+    padding: 20px;
+}
+.post-data btn{
+    height:30px;
+    width:80px;
+    padding:2px;
+    margin:0px;
+    color:white!important;
+}
+.post a{
+    text-decoration:none;
+}
+.post-data h4{
+    margin:0px;
+    padding:0px;
+}
+.post-data hr {
+    margin: 6px;
+}
+.MyCol .btn-success{
+    float:left;
+}
+.mytable{
+    background-color:white;
+    padding:20px;
+    border-radius:10px;
+}
+.mytable a{
+    color:white !important;
+    margin:5px;
+}
+.mytable img{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+}

@@ -1,0 +1,23 @@
+﻿@using Assignment_03.Models
+@model Post
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Context.Request.Cookies.TryGetValue("Username", out string User);
+}
+<div class="post">
+    <div class="post-photo-area">
+        <img src="~/ProfileImages/@Model.ProfileImageName" class="post-photo" />
+    </div>
+    <div class="post-data">
+        <p><span class="post-user">@Model.PostedBy</span> @Model.PostingDate</p>
+        @if (Model.PostedBy == User)
+        {
+            <a class="btn btn-secondary" asp-action="UpdatePost" asp-route-id="@Model.ID">Update</a>
+            <a class="btn btn-danger" asp-action="DeletePost" asp-route-id="@Model.ID">Delete</a>
+        }
+        <hr />
+        <h4>@Model.Title</h4>
+        <p>@Model.Content</p>
+    </div>
+</div>
+<br />
